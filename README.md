@@ -10,3 +10,5 @@
 - create a mysql database called `odc_registration_system`
 - write on the terminal `php artisan migrate`
 - run a server and enjoy testing on postman!
+
+### Don't forget to take a look on `routes/api.php` file to know the available routes!
